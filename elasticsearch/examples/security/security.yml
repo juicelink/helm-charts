@@ -1,5 +1,5 @@
 ---
-clusterName: "security"
+clusterName: "elasticsearch"
 nodeGroup: "master"
 
 roles:
